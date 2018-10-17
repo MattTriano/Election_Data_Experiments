@@ -40,7 +40,7 @@ passwords.py
 # All files in data
 ###################
 node_modules/
-data/
+data/hide/
 .ipynb_checkpoints/
 spark/data/
 
