@@ -41,6 +41,7 @@ passwords.py
 ###################
 node_modules/
 data/hide/
+data/
 .ipynb_checkpoints/
 spark/data/
 
